@@ -1,2 +1,11 @@
-fastapi==0.100.0
-hypercorn==0.14.4
+fastapi
+uvicorn
+openai
+requests
+pydantic
+langchain
+youtube-transcript-api
+pytube
+youtube_dl
+urllib3
+yt_dlp
