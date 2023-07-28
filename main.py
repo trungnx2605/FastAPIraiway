@@ -6,7 +6,7 @@ from langchain.document_loaders.blob_loaders.youtube_audio import YoutubeAudioLo
 from langchain.document_loaders import YoutubeLoader
 import os
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 
 app = FastAPI()
 
